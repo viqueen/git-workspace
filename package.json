@@ -1,6 +1,6 @@
 {
   "name": "@labset/git-workspaces",
-  "version": "4.3.0",
+  "version": "5.0.0",
   "description": "git workspace cli extensions",
   "preferGlobal": false,
   "bin": {
@@ -57,7 +57,7 @@
     "@types/node": "^20.0.0",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.0.0",
-    "eslint": "^8.39.0",
+    "eslint": "^9.0.0",
     "eslint-plugin-import": "^2.27.5",
     "jest": "^29.4.3",
     "prettier": "^3.2.5",
