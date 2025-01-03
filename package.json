@@ -1,6 +1,6 @@
 {
   "name": "@labset/git-workspaces",
-  "version": "4.3.0",
+  "version": "5.0.0",
   "description": "git workspace cli extensions",
   "preferGlobal": false,
   "bin": {
@@ -70,7 +70,7 @@
     "@labset/task-pool-executor": "^2.3.0",
     "axios": "^1.7.7",
     "commander": "^12.0.0",
-    "inquirer": "^8.2.5",
+    "inquirer": "^12.0.0",
     "lodash": "^4.17.21",
     "simple-git": "^3.26.0"
   }
